@@ -40221,3 +40221,12 @@ ion-app.app-root .core-button-select.button-md {
     padding: 20px 30px 20px 30px;
     border-radius: 25px;
 }
+
+
+
+ion-app.app-root .core-tabs-bar a.tab-slide[aria-selected=true] {
+    color: #47C1BF!important;
+    border: 0!important;
+    border-bottom: 2px solid #47C1BF!important;
+    padding: 0!important;
+}
