@@ -40196,3 +40196,28 @@ page-addon-calendar-list.ion-page.ng-star-inserted.show-page ion-content.has-ref
     -o-background-size: cover;
     background-size: cover;
 }
+
+
+.safe-padding-horizontal.row.ng-star-inserted {
+    background: #47C1BF;
+}
+
+
+ion-app.app-root.md .button-md-light {
+    color: #fff;
+    background: #47C1BF;
+    border: none;
+}
+
+
+ion-app.app-root .core-button-select.button-md {
+-webkit-box-shadow: none;
+    box-shadow: none;
+    }
+    
+    
+.core-empty-box-content ion-icon.icon.icon-md.ion-md-calendar {
+    background: rgba(226, 224, 222, 0.6);
+    padding: 20px 30px 20px 30px;
+    border-radius: 25px;
+}
