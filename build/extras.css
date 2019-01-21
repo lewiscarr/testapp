@@ -40230,3 +40230,8 @@ ion-app.app-root .core-tabs-bar a.tab-slide[aria-selected=true] {
     border-bottom: 2px solid #47C1BF!important;
     padding: 0!important;
 }
+
+
+ion-app.app-root core-course-format .core-format-progress-list .core-course-thumb {
+    display: block;
+}
