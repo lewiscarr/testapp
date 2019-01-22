@@ -40234,6 +40234,12 @@ ion-app.app-root .core-tabs-bar a.tab-slide[aria-selected=true] {
 
 ion-app.app-root core-course-format .core-format-progress-list .core-course-thumb {
     display: block!important;
+    height:200px;
+}
+
+.core-course-thumb.ng-star-inserted {
+    display: block!important;
+    height: 200px;
 }
 
 .select-text.ng-star-inserted {
